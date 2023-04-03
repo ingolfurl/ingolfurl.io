@@ -918,6 +918,8 @@
 .contact-heading {
     font-size: 62px;
     font-weight: bold;
+    color: #000000;
+    
 }
 
 .contact-para {
@@ -966,7 +968,7 @@
 }
 
 .card-para {
-    color: #666666;
+    color: #0d6efd;
     margin: 15px auto 0px auto;
 }
 
