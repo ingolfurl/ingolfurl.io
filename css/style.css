@@ -59,7 +59,7 @@
 
 .main {
     font-family: 'Roboto Slab', serif;
-    background-color: #FFFFFF;
+    background-color: #9d9d9d;
     font-size: 16px;
 }
 
@@ -929,6 +929,7 @@
 .card-row-1,
 .card-row-2 {
     padding: 30px 50px;
+    justify-content: center;
 }
 
 .custom-card {
